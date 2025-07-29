@@ -1,0 +1,1 @@
+A mobile-based Tic Tac Toe game built using React Native CLI. The app supports two-player gameplay, real-time score tracking, and displays winner or draw alerts. Designed with a clean UI and local state management.
